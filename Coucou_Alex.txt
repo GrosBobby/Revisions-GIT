@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fichier revu et modifié
+=======
+fichier modifié
+>>>>>>> 12c330ba0d18b6ddf2633fad600d55c398c91f50
